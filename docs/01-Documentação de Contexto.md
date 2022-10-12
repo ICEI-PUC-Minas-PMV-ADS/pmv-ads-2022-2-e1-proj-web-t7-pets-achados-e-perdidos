@@ -1,6 +1,6 @@
 # Introdução
 
-O Brasil tem a segunda maior população de cães, gatos e aves canoras e ornamentais em todo o mundo e é o terceiro maior país em população total de animais de estimação. São 54,2 milhões de cães, 23,9 milhões de gatos, 19,1 milhões de peixes, 39,8 milhões de aves e mais 2,3 milhões de outros animais. O total é de 139,3 milhões de pets.
+O Brasil tem a segunda maior população de cães, gatos e aves canoras e ornamentais em todo o mundo e é o terceiro maior país em população total de animais de estimação (ABINPET, 2022). São 54,2 milhões de cães, 23,9 milhões de gatos, 19,1 milhões de peixes, 39,8 milhões de aves e mais 2,3 milhões de outros animais. O total é de 139,3 milhões de pets.
 
 Com base em relatos e pesquisas realizadas e ultimamente, sendo eles os animais mais comuns, gatos e cachorros, está comprovado uma estimativa de 30 milhões de animais vivendo nas ruas, sendo aproximadamente 20 milhões de cães e 10 milhões de gatos. Diante das pesquisas acima, comprova-se que nesses 30 milhões não estão apenas animais abandonados, mas também perdidos. É um caso muito comum o desaparecimento de animais domésticos, onde eles podem acabar fugindo ou se perdendo de seus tutores. Portanto, é necessário a existência de meios de informações que possam ajudar a localizar  esses animais.
 
