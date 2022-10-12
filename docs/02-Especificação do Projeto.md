@@ -48,16 +48,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O site deve pedir o cadastro do usuário para poder publicar informações sobre o seu pet perdido ou sobre um pet encontrado | ALTA | 
+|RF-002| O site deve permitir que o usuário publique uma notícia sobre o seu pet perdido | MÉDIA |
+|RF-003| O site deve permitir que o usuário publique informações sobre um pet que foi encontrado | MÉDIA |
+|RF-004| O site deve incorporar um sistema de troca de mensagens entre os usuários | MÉDIA |
+|RF-005| O site deve solicitar acesso a localização do usuário para fornecer informações sobre notícias próximas do usuário | MÉDIA |
+|RF-006| O site deve enviar email atualizando o usuário sobre suas postagens | MÉDIA |
+|RF-007| O site deve permitir o compartilhamento de notícias visualizadas em plataformas de redes sociais | MÉDIA |
+|RF-008| O site deve permitir salvar postagens preferidas | MÉDIA |
+|RF-009| O site deve permitir verificar as postagens salvas como preferidas | MÉDIA |
+|RF-0010| O site deve permitir que usuários possam comentar postagens | MÉDIA |
+|RF-0011| O site deve exibir os comentários registrados juntamente com a postagem exibida | MÉDIA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada |  BAIXA | 
+|RNF-002| O site deve respeitar a LGPD |  ALTA | 
+|RNF-003| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  BAIXA | 
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
