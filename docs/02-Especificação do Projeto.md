@@ -30,7 +30,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |--------------------|------------------------------------|----------------------------------------|
 |Jehan               | Encontra meu pet em um raio de 5 km           | Não esquecer de fazê-las               |
 |Amanda Alves        | Visualizar notícias mais alinhadas com minha área de atuação| Permitir que possam administrar contas |
-|Cleber Fernades     | Alterar permissões                 | Permitir que possam administrar contas |
+|Cleber Fernades     | Monitorar meu pet                 | Saber onde ela está 24hs por dia para que não o perca |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
