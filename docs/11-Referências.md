@@ -1,6 +1,6 @@
 # Referências
 
-ABINPET. Informações Gerais do Setor. **Abinpet**, 2022. Disponível em: [https://abinpet.org.br/informacoes-gerais-do-setor/](https://abinpet.org.br/informacoes-gerais-do-setor/). Acesso em: 27 set. 2022.
+ABINPET. Informações Gerais do Setor. **Abinpet**, 2022. Disponível em: <[https://abinpet.org.br/informacoes-gerais-do-setor/](https://abinpet.org.br/informacoes-gerais-do-setor/)>. Acesso em: 27 set. 2022.
 
 Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
 
