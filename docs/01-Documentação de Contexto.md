@@ -3,25 +3,16 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+O Brasil tem a segunda maior população de cães, gatos e aves canoras e ornamentais em todo o mundo e é o terceiro maior país em população total de animais de estimação. São 54,2 milhões de cães, 23,9 milhões de gatos, 19,1 milhões de peixes, 39,8 milhões de aves e mais 2,3 milhões de outros animais. O total é de 139,3 milhões de pets.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Com base em relatos e pesquisas realizadas e ultimamente, sendo eles os animais mais comuns, gatos e cachorros, está comprovado uma estimativa de 30 milhões de animais vivendo nas ruas, sendo aproximadamente 20 milhões de cães e 10 milhões de gatos. Diante das pesquisas acima, comprova-se que nesses 30 milhões não estão apenas animais abandonados, mas também perdidos. É um caso muito comum o desaparecimento de animais domésticos, onde eles podem acabar fugindo ou se perdendo de seus tutores. Portanto, é necessário a existência de meios de informações que possam ajudar a localizar  esses animais.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Este projeto tem como finalidade desenvolver um meio de compartilhar informações de pets perdidos e encontrados de forma que, os tutores utilizem dos canais de busca (web/app) como auxílio eficaz na localização dos mesmos.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
