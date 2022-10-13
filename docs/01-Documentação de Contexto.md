@@ -5,7 +5,7 @@ O Brasil tem a segunda maior população de cães, gatos e aves canoras e orname
 Ainda de acordo com a Abinpet (2022), sendo os animais mais comuns, gatos e cachorros, está comprovado uma estimativa de 30 milhões de animais vivendo nas ruas, sendo aproximadamente 20 milhões de cães e 10 milhões de gatos. Diante das pesquisas da entidade, comprova-se que nesses 30 milhões não estão apenas animais abandonados, mas também perdidos. É um caso muito comum o desaparecimento de animais domésticos, onde eles podem acabar fugindo ou se perdendo de seus tutores. Portanto, é necessário a existência de meios de informações que possam ajudar a localizar  esses animais.
 
 ## Problema
-Este projeto tem como finalidade desenvolver um meio de compartilhar informações de pets perdidos e encontrados de forma que, os tutores utilizem dos canais de busca (web/app) como auxílio eficaz na localização dos mesmos.
+Desenvolver um aplicativo totalmente gratuito que ajude a localizar pets perdidos.
 
 
 
