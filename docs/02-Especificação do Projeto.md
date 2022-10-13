@@ -36,7 +36,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |Andrea Carvalho     | Um meio de ajudar pets    | a encontrar tutores que forneça um lar aos pets |
 |Milena da Silva     | Que pet que estejam perdidos voltem para seus tutores | os tutores não se sintem vulneráveis como me senti quando perdi o meu pet |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+
 
 
 ## Requisitos
