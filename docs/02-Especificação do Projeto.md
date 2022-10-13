@@ -1,10 +1,7 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+O site terá como principal função fazer a conexão entre o usuário que teve seu pet perdido com a pessoa que encontrou ou teve notícias sobre o mesmo. Redes sociais podem ser incluídas, visando facilitar ao máximo todo tipo de comunicação.
 
 ## Personas
 
@@ -35,9 +32,9 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Jehan               | Encontra meu pet            | Para que o meu pet seja resgatado.            |
-|Amanda Alves        | Visualizar notícias mais alinhadas com minha área de atuação| Gastar menos tempo lendo notícias e dar foco naquelas que estão relacionadas com o meu trabalho |
-|Cleber Fernades     | Monitorar meu pet                 | Saber onde ela está 24hs por dia para que não o perca |
+|Andrea Carvalho     | Encontra meu pet                   | Para que o meu pet seja resgatado.     |
+|Andrea Carvalho     | Um meio de ajudar pets    | a encontrar tutores que forneça um lar aos pets |
+|Milena da Silva     | Que pet que estejam perdidos voltem para seus tutores | os tutores não se sintem vulneráveis como me senti quando perdi o meu pet |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
