@@ -10,6 +10,11 @@ Desenvolver um aplicativo totalmente gratuito que ajude a localizar pets perdido
 
 
 ## Objetivos
+Objetivo geral: 
+
+> - Este projeto tem como finalidade desenvolver um meio de compartilhar informações de pets perdidos e encontrados de forma que, os tutores utilizem dos canais de busca (web/app) como auxílio eficaz na localização dos mesmos. 
+
+
 Objetivos específicos:
 
  > - Desenvolvimento de um sistema para cadastrar e catalogar animais perdidos.
