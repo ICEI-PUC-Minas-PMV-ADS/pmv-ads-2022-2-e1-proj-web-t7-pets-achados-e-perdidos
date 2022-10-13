@@ -43,6 +43,7 @@ A equipe está organizada da seguinte maneira:
 - **Equipe de Desenvolvimento:**
     - Alexandre Rômulo Fernandes Ribeiro Alves
     - Leonardo de Carvalho Bittencourt Padilha
+    - Rafael dos Santos Silva
 - **Equipe de Design:**
     - Fabio Ferreira Castilho matrícula
 
