@@ -8,9 +8,25 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+|Andréa Carvalho| ![alt text] |
+|-----------------------|-|
+|Idade:|23|
+|Ocupação:|  Desenvolvedora |
+|Aplicativos:| Instagram, Twitter, Whatsapp|
+|Motivações | Já perdi um pet anteriormente |
+|Frustrações | Nunca consegui encontrar meu pet perdido |
+|Hobbies e Histórias | Assistir filmes, jogar games e tocar teclado |
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+
+|Milena da Silva| ![alt text] |
+|-----------------------|-|
+|Idade:|24|
+|Ocupação:|  Auxiliar administrativo |
+|Aplicativos:| Facebook, Instagram, Twitter, Whatsapp|
+|Motivações | Eu queria que todos os pets do mundo tivessemum lar |
+|Frustrações | Não consigo adotar todos os pets que gostaria e nem ajudar todos os pets de rua que vejo |
+|Hobbies e Histórias | Cuidar de pets, Tenho dois cachorros, Hércules e Oliver. Perdi eles e coloquei em todas as redes sociais em certo momento eles voltaram batendo
+na porta de casa |
 
 
 ## Histórias de Usuários
