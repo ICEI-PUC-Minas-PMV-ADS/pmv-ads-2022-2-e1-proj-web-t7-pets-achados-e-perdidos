@@ -61,6 +61,7 @@ As ferramentas empregadas no projeto são:
 - Git Hub
 - Microsoft Teams 
 - Figma
+- VSCode
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
