@@ -5,7 +5,7 @@ O site terá como principal função fazer a conexão entre o usuário que teve 
 
 ## Personas
 
-|Andréa Carvalho| ![alt text] |
+|Andréa Carvalho| ![Persona 1](/img/Persona%20%20(1).jpeg) |
 |-----------------------|-|
 |Idade:|23|
 |Ocupação:|  Desenvolvedora |
@@ -15,7 +15,7 @@ O site terá como principal função fazer a conexão entre o usuário que teve 
 |Hobbies e Histórias | Assistir filmes, jogar games e tocar teclado |
 
 
-|Milena da Silva| ![alt text] |
+|Milena da Silva| ![Persona 1](/img/Persona%20%20(2).jpeg)  |
 |-----------------------|-|
 |Idade:|24|
 |Ocupação:|  Auxiliar administrativo |
