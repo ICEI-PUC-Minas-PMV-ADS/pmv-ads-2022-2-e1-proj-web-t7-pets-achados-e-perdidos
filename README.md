@@ -12,6 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Alexandre Rômulo Fernandes Alves
 * Fabio Ferreira Castilho
+* João Victor Martins
 * Leonardo de Carvalho Bittencourt Padilha
 * Luana Grazielle Martins da Silva Fernandes
 * Rafael dos Santos Silva
