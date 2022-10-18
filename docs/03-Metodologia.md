@@ -4,6 +4,17 @@
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
+## Relação de Ambientes de Trabalho
+
+Os artefatos do projeto serão desenvenvolvidos a partir das plataformas GitHub e Figma, e a relação dos ambientes está apresentada na tabela abaixo.
+
+|Ambiente     | Plataforma  |Link de acesso |
+|-------|-------------------------|----|
+| Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-pets-achados-e-perdidos |
+| Design de Interfaces | Figma | https://www.figma.com/file/OsDvmS0TO0tMUIKvmhWDsk/Found-Pets?node-id=0%3A1 |
+| Gerenciamento do Projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/189 |
+| Comunicação e Reuniões | Microsoft Teams |  |
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
