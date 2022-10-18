@@ -73,11 +73,7 @@ As ferramentas empregadas no projeto são:
 - Figma
 - VSCode
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+Escolhemos o VSCode porque possui uma integração com o Git. O Figma foi escolhido para poder fazer a edição em tempo real. O Microsoft Teams foi o aplicativo utilizado para realizarmos as reuniões.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
