@@ -8,16 +8,6 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 
-## Relação de Ambientes de Trabalho
-
-Os artefatos do projeto serão desenvenvolvidos a partir das plataformas GitHub e Figma, e a relação dos ambientes está apresentada na tabela abaixo.
-
-|Ambiente     | Plataforma  |Link de acesso |
-|-------|-------------------------|----|
-| Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-pets-achados-e-perdidos |
-| Design de Interfaces | Figma | https://www.figma.com/file/OsDvmS0TO0tMUIKvmhWDsk/Found-Pets?node-id=0%3A1 |
-| Gerenciamento do Projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/189 |
-| Comunicação e Reuniões | Microsoft Teams |  |
 
 ## User Flow
 
