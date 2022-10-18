@@ -55,7 +55,7 @@ A equipe está organizada da seguinte maneira:
     - Leonardo de Carvalho Bittencourt Padilha
     - Rafael dos Santos Silva
 - **Equipe de Design:**
-    - Fabio Ferreira Castilho matrícula
+    - Fabio Ferreira Castilho 
 
 
 ### Processo
