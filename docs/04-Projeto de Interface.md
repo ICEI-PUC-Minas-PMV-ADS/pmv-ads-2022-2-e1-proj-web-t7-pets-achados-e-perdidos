@@ -11,7 +11,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![Exemplo de UserFlow](img/Wframes/MicrosoftTeams-image%20(11).png)
+! [UserFlow](img/Wframes/MicrosoftTeams-image%20(11).png)
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
@@ -19,8 +19,16 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/Wframes/MicrosoftTeams-image%20(7).png)
-![Exemplo de Wireframe](img/Wframes/MicrosoftTeams-image%20(5).png)
+![Wireframe](img/Wframes/Paginainicial.png)
+![Wireframe](img/Wframes/Login.png)
+![Wireframe](img/Wframes/CadastroUsuario.png)
+![Wireframe](img/Wframes/CompleteRegistro.png)
+![Wireframe](img/Wframes/Buscadepets.png)
+![Wireframe](img/Wframes/Informacaopet.png)
+![Wireframe](img/Wframes/CaixadeEntrada.png)
+![Wireframe](img/Wframes/Quemsomos.png)
+![Wireframe](img/Wframes/Enviarpet.png)
+
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
