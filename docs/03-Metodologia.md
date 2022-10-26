@@ -1,9 +1,6 @@
 
 # Metodologia
 
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
-
 ## Relação de Ambientes de Trabalho
 
 Os artefatos do projeto serão desenvenvolvidos a partir das plataformas GitHub e Figma, e a relação dos ambientes está apresentada na tabela abaixo.
@@ -35,8 +32,6 @@ etiquetas:
 - `bug`: uma funcionalidade encontra-se com problemas
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
 ## Gerenciamento de Projeto
 
@@ -87,6 +82,3 @@ As ferramentas empregadas no projeto são:
 - VSCode
 
 Escolhemos o VSCode porque possui uma integração com o Git. O Figma foi escolhido para poder fazer a edição em tempo real. O Microsoft Teams foi o aplicativo utilizado para realizarmos as reuniões.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
