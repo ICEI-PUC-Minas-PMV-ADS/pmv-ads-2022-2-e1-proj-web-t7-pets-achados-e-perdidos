@@ -32,8 +32,8 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Andrea Carvalho     | Encontra meu pet                   | Para que o meu pet seja resgatado.     |
-|Andrea Carvalho     | Um meio de ajudar pets    | a encontrar tutores que forneça um lar aos pets |
+|Andrea Carvalho     | Poder conversar com quem encontrou meu pet  | Para que o meu pet seja resgatado.     |
+|Andrea Carvalho     | Um meio de ajudar pets que estão perdidos    | para encontrar tutores que forneção um lar aos pets |
 |Milena da Silva     | Que pet que estejam perdidos voltem para seus tutores | os tutores não se sintem vulneráveis como me senti quando perdi o meu pet |
 
 
