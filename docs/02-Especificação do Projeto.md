@@ -15,7 +15,7 @@ O site terá como principal função fazer a conexão entre o usuário que teve 
 |Hobbies e Histórias | Assistir filmes, jogar games e tocar teclado |
 
 
-|Milena da Silva| ![Persona 1](img/Persona2.jpg)  |
+|Milena da Silva| <p align="left">![Persona 1](img/Persona2.jpg) </p> |
 |-----------------------|-|
 |Idade:|24|
 |Ocupação:|  Auxiliar administrativo |
