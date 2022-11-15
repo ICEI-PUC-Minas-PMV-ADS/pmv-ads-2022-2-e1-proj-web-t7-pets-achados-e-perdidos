@@ -8,4 +8,5 @@ O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em 
 
 ### [0.1.0] -15/11/2022
 #### Página de Publicações
+#### Página Sobre
 - Adicionado ...
