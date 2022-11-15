@@ -1,8 +1,6 @@
 # Arquitetura da Solução
 
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
-
 ## Diagrama de componentes
 
 Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
@@ -11,22 +9,17 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na Figura XX.
 
-![Diagrama de Componentes](img/Wframes/../Solucao.jpg)
-<center>Figura XX - Arquitetura da Solução</center>
+![Diagrama de Componentes](img/diagrama.jpeg)
+<center>Figura - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Postagens Salvas** - seções de postagens marcadas como preferidas 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Postagens próprias** - lista de todas as postagens feitas pelo usuário
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
+     - **Publicações** - registro de publicações dos usuários.
+     - **Valoritas** - lista de publicações mantidas para leitura e acesso posterior.
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
-
-
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
 que o usuário entra na plataforma, ele é apresentado à tela inicial
@@ -57,13 +50,11 @@ para a Tela 2.
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Na implementação da solução estamos utilizando o VSCode para desenvolver as linguagnes HTML, CSS e JavaScript. 
 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+A hospedagem sera feita no GitPages.
 
 >
