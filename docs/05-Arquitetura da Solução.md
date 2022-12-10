@@ -55,6 +55,6 @@ Na implementação da solução estamos utilizando o VSCode para desenvolver as 
 
 ## Hospedagem
 
-A hospedagem sera feita no GitPages.
+A hospedagem sera feita no Vercel.
 
 >
