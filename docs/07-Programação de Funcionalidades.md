@@ -46,33 +46,6 @@ Página onde podemos criar publicações para ajudar a encontrar um pet perdido 
 - estilo.css
 
 
-## Página de login
-
-Página que permite que o usuário faça o seu login.
-
-![Funcionalidade](img/Funcionalidades/Login.jpg)
-
-### Requisitos Atendidos 
-- RF-003 O site deve permertir a realização do login de um usuário
-
-### Artefatos de Funcionalidade
-- [Página de login](https://pmv-ads-2022-2-e1-proj-web-t7-pets-achados-e-perdidos.vercel.app/login.html)
-- estilo.css
-
-
-## Página de cadastro
-
-Página que permite que o usuário faça o seu cadastro.
-
-![Funcionalidade](img/Funcionalidades/Registro.jpg)
-
-### Requisitos Atendidos 
-- RF-002 O site deve permertir a realização do cadastro de um usuário novo 
-
-### Artefatos de Funcionalidade
-- [Página de cadastro](https://pmv-ads-2022-2-e1-proj-web-t7-pets-achados-e-perdidos.vercel.app/register.html)
-- estilo.css
-
 ## Navbar
 
 Ferramenta que possibilita acessar outras páginas do site.
@@ -87,17 +60,6 @@ Ferramenta que possibilita acessar outras páginas do site.
 - estilo.css
 - script.js
 
-
-## Página sobre nós
-
-Página que conta um pouco sobre os gerenciadores do site.
-
-![Funcionalidade](img/Funcionalidades/Sobre.jpg)
-
-
-### Artefatos de Funcionalidade
-- [Página sobre](https://pmv-ads-2022-2-e1-proj-web-t7-pets-achados-e-perdidos.vercel.app/sobre.html)
-- estilo.css
 
 
 
