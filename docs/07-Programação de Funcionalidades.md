@@ -94,8 +94,6 @@ Página que conta um pouco sobre os gerenciadores do site.
 
 ![Funcionalidade](img/Funcionalidades/Sobre.jpg)
 
-### Requisitos Atendidos 
-- RF-001 O site deve receber o usuário e mostrar depoimentos já recebidos
 
 ### Artefatos de Funcionalidade
 - [Página sobre](https://pmv-ads-2022-2-e1-proj-web-t7-pets-achados-e-perdidos.vercel.app/sobre.html)
