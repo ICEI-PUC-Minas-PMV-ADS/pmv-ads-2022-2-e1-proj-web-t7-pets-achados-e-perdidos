@@ -10,6 +10,7 @@
     <meta name="keywords" content="html, web, css">
     <link href="/css/estilos-publi.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"/>
     <title>Found Pets</title>
 
 </head>
@@ -54,51 +55,26 @@
 
     <script src="/js/script-publi.js"></script>
     <!--Fim do Menu-->
-<main class="conteudo">
-<div class="container-home">
-        <div class="titulo-home">
-        <h1>Bem vindos ao Found Pets</h1>
-        </div>
-        <div class="texto-home">
-            <p>Perdeu seu Pet ou encontrou algum Pet
-            aqui é o seu lugar, nós fazemos essa ponte e 
-            ajudamos quem perdeu ou quem encontrou um
-            animalzinho.
-            </p>
-            <img class="imagem-home" src="/img/cat-home.png">
-        </div>
-        <div class="cad">
-        <button><a href="/login.html">Clique aqui e faça seu Cadastro</a></button>
-        </div>
+<main>
+    
+    <section class="page_login" >
+            <div class="loginBox">
 
-    </div>
+                <h1>Login</h1>
+                <input type="text" placeholder="Login" id="login">
+                <input type="password" placeholder="Senha" id="senha">
+                <input type="submit" placeholder="Enviar" id="enviar" onclick="logar(); return false">
+                <p class="text_or">- ou -</p>
+                <button type="submit" id="google" ><i class="fa-brands fa-google"></i> Entrar com Google</button>
+                <p class="text_login">Ainda não possui uma conta ?
+                <br>Crie uma  Conta é grátis!</p>
+                <a href="/register.html"><button type="submit" id="register"> Registre se</button></a>    
+            </div>
 
-<div class="container-dep">
-    <h1 class="titulo-dep"> Depoimentos</h1>
-    <h2 class="sub-dep" >Conheça alguns depoimentos de pessoas que encontraram seus pets </h2>
-    <div class="dep-card-geral">
-    <div class="dep-card">
-        <img src="/img/avatar-mary.png">
-        <h1>Mary J.</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
-    </div>
-    <div class="dep-card">
-        <img src="/img/avatar-mary.png">
-        <h1>Mary J.</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
-    </div>
-    <div class="dep-card">
-        <img src="/img/avatar-mary.png">
-        <h1>Mary J.</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
-    </div>
-    </div>
+             
 
 
-</div>
-
-
-</div>
+    </section>
 
 </main>
     <footer>
