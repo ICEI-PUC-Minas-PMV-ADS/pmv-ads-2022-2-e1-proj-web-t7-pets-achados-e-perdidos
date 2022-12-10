@@ -85,6 +85,7 @@ Ferramenta que possibilita acessar outras páginas do site.
 ### Artefatos de Funcionalidade
 - [Página inicial](https://pmv-ads-2022-2-e1-proj-web-t7-pets-achados-e-perdidos.vercel.app/index.html)
 - estilo.css
+- script.js
 
 
 ## Página sobre nós
