@@ -9,4 +9,32 @@ function menuShow() {
     }
 }
 
-// Java do filtro
+// Foto galeria
+
+function trocaFoto (smallImg)
+{
+        var fullImg = document.getElementById("pet_box");
+        fullImg.src = smallImg.src;
+}
+
+
+// login
+
+function logar(){
+
+        var login = document.getElementById("login").value;
+        var senha = document.getElementById('senha').value;
+
+        if(login == "admin" && senha == "admin") {
+            alert('Você foi Logado com sucesso')
+        location.href = "index.html";
+        }else{
+            alert("Usuario ou senha incorretos.")
+        }
+    }
+
+
+    var input = document.getElementById('image-input');
+    var image = input.files[0];
+    
+    // Aqui, você pode fazer o upload da imagem para o servidor
