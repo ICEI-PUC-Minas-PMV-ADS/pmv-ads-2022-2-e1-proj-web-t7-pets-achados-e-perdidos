@@ -47,17 +47,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve pedir o cadastro do usuário para poder publicar informações sobre o seu pet perdido ou sobre um pet encontrado | ALTA | 
-|RF-002| O site deve permitir que o usuário publique uma notícia sobre o seu pet perdido | ALTA |
-|RF-003| O site deve permitir que o usuário publique informações sobre um pet que foi encontrado | ALTA |
-|RF-004| O site deve incorporar um sistema de troca de mensagens entre os usuários | ALTA |
+|RF-001| O site deve receber o usu[ario e mostrar depoimentos já recebidos | ALTA |
+|RF-002| O site deve pedir o cadastro do usuário para poder publicar informações sobre o seu pet perdido ou sobre um pet encontrado | ALTA | 
+|RF-003| O site deve permitir que o usuário publique uma notícia sobre o seu pet perdido | ALTA |
+|RF-004| O site deve permitir que o usuário publique informações sobre um pet que foi encontrado | ALTA |
 |RF-005| O site deve solicitar acesso a localização do usuário para fornecer informações sobre notícias próximas do usuário | MÉDIA |
-|RF-006| O site deve enviar email atualizando o usuário sobre suas postagens | MÉDIA |
+|RF-006| O site deve enviar email atualizando o usuário sobre suas postagens | BAIXA |
 |RF-007| O site deve permitir o compartilhamento de notícias visualizadas em plataformas de redes sociais | MÉDIA |
 |RF-008| O site deve permitir salvar postagens preferidas | BAIXA |
 |RF-009| O site deve permitir verificar as postagens salvas como preferidas | BAIXA |
 |RF-0010| O site deve permitir que usuários possam comentar postagens | BAIXA |
 |RF-0011| O site deve exibir os comentários registrados juntamente com a postagem exibida | BAIXA |
+
 
 
 ### Requisitos não Funcionais
