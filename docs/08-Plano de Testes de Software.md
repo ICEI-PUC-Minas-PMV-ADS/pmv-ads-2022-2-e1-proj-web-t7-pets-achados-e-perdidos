@@ -21,7 +21,7 @@ O sistema será desenvolvido em html, css e javascript e deverá funcionar perfe
 |Critério de Êxito | - A digitação deve ser possivel e o envio dos dados. |
 |  	|  	|
 
-| **Teste** | **Case 03 - Cadastro de usuário** 	|
+| **Teste** | **Case 03 - Tela de Login** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	|RF-003 |
 | Objetivo do Teste 	| Realizar login de usuários  |
@@ -33,6 +33,6 @@ O sistema será desenvolvido em html, css e javascript e deverá funcionar perfe
 |:---:	|:---:	|
 |	Requisito Associado 	|RF-004, RF-005, RF-006, RF-007 |
 | Objetivo do Teste 	| Publicar uma noticia sobre o pet  |
-| Passos 	| -  Digitar os dados necessarios para publicação e enviar |
+| Passos 	| -  Digitar os dados necessarios para publicação e enviar <br> - Clicar em publicações e visualizar as publicações existentes |
 |Critério de Êxito | - A digitação deve ser possivel e o envio dos dados. |
 |  	|  	|
