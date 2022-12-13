@@ -18,4 +18,4 @@ Para o body utilizamos as cores:<br>
 Para o logo utilizamos as cores:<br>
         color: rgb(5, 5, 5);
 
-<a class="js-navigation-open Link--primary" title="Apresentação.mp4" data-turbo-frame="repo-content-turbo-frame" href="/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-pets-achados-e-perdidos/blob/main/docs/img/Registroteste/Apresenta%C3%A7%C3%A3o.mp4">Apresentação.mp4</a>
+<a href="/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-pets-achados-e-perdidos/blob/main/docs/img/Registroteste/Apresenta%C3%A7%C3%A3o.mp4">Apresentacao.mp4</a>
